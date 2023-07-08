@@ -1,0 +1,43 @@
+{
+    "manufacturer": "Ben Wang",
+    "keyboard_name": "12",
+    "maintainer": "DaPotato69",
+    "bootloader": "caterina",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "direct": [["D7","D4","D1","B1","F6","F5","E6","C6","D0","B3","F7","F4"]]
+    },
+    "processor": "atmega32u4",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_ortho_12x1": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 0, "y": 1},
+                {"matrix": [0, 2], "x": 0, "y": 2},
+                {"matrix": [0, 3], "x": 0, "y": 3},
+                {"matrix": [0, 4], "x": 0, "y": 4},
+                {"matrix": [0, 5], "x": 0, "y": 5},
+                {"matrix": [0, 6], "x": 0, "y": 6},
+                {"matrix": [0, 7], "x": 0, "y": 7},
+                {"matrix": [0, 8], "x": 0, "y": 8},
+                {"matrix": [0, 9], "x": 0, "y": 9},
+                {"matrix": [0, 10], "x": 0, "y": 10},
+                {"matrix": [0, 11], "x": 0, "y": 11}
+            ]
+        }
+    }
+}
