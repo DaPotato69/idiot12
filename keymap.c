@@ -97,4 +97,4 @@ combo_t key_combos[] = {
     COMBO(FSEVEN, KC_F7),
     COMBO(FTEN, KC_F10),
     COMBO(GRAVE, KC_GRAVE),
-}
+};
